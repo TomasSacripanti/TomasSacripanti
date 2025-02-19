@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TomasSacripanti
-- 👀 I’m interested in web apps, blockchain development and cryptocurrencies.
-- 🌱 I’m currently learning smart contracts development.
+- 👀 I’m interested in web development and machine learning.
 - 📫 How to reach me: Linkedin -> Tomás Sacripanti.
 
 <!---
